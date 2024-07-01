@@ -1,0 +1,4 @@
+|| iforthen.miranda
+x = 7
+
+main = [ if x = 7 | x < 10 then "x is 7 or less than 10" else "" ]

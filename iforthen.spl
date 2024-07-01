@@ -1,0 +1,10 @@
+# iforthen.spl
+PROGRAM
+    VAR
+        x : INTEGER;
+    BEGIN
+        x := 7;
+        IF x = 7 OR x < 10 THEN
+            WRITELN("x is 7 or less than 10");
+        ENDIF;
+    END.

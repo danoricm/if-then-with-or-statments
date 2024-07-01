@@ -1,0 +1,4 @@
+HAI 1.2
+I HAS A x ITZ 7
+BOTH SAEM x AN 7 OR BOTH SAEM x SMALLR 10, VISIBLE "x is 7 or less than 10"
+KTHXBYE

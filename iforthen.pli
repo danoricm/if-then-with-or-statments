@@ -1,0 +1,6 @@
+/* iforthen.pli */
+DCL x FIXED DECIMAL(5) INIT(7);
+
+IF x = 7 | x < 10 THEN
+    PUT LIST('x is 7 or less than 10');
+END IF;
